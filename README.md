@@ -1,6 +1,14 @@
-## ⛏️ React Ecosystem <a name = "react_eco"></a>
+## ⛏️ React Ecosystem
 
-#To be learned
-
-- [Redux](https://redux.js.org/) - State Management Tool
-- [Yup](https://www.npmjs.com/package/yup?activeTab=readme) - validation
+| React-Tools | Not Started | In Progress | Completed |
+| :---------- | :---------: | :---------: | :-------: |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
+| Redux       |      -      |      -      |     -     |
